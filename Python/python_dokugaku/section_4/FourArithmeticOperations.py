@@ -1,0 +1,5 @@
+print(1+1)
+print(5*4)
+print(6/5)
+print(6//5)
+print(6&4)
